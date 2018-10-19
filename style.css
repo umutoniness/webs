@@ -1,0 +1,79 @@
+body{
+	font-family: sans-serif;
+	;
+}
+.Subs img{
+	width: 60px;
+	height: 15px;
+	padding-left: 10px;
+}
+.cont{
+	width: 50%;
+	padding-left: 50px;
+}
+p{
+	font-size: 13px;
+}
+strong{
+	font-size: 14px;
+}
+.l{
+	width: 53%;
+}
+.wd{
+	padding-left: 9px;
+}
+label{
+	font-size: 13px;
+	padding-left: 66px;
+}
+input[type=text]{
+	width: 87.3%;
+	padding-left: 10px;
+}
+input[type=number]{
+	width: 87.3%;
+	padding-left: 10px;
+}
+input[type=email]{
+	width: 87.3%;
+	padding-left: 10px;
+}
+.wd{
+	width: 91.2%;
+}
+.sl{
+	padding-top: 5px;
+}
+.ck{
+	padding-top: 30px;
+	font-size: 13.5px;
+}
+.Ss{
+	padding-top: 30px;
+}
+.Ss button{
+	height: 30px;
+	width: 90px;
+	background: #000033;
+	color: white;
+	border:none;
+}
+.rt{
+	width: 50%;
+	float: right;
+	margin-top: -247px;
+}
+.sht{
+	width: 50px;
+}
+#sht{
+	padding-top: 5px;
+}
+.ck1{
+	padding-top: 10px;
+	font-size: 13px;
+}
+.le{
+	margin-left: -29px;
+}
